@@ -1,0 +1,2 @@
+# Processando e transdormando dados com power BI
+No repositório estão apenas os scripts para construção do banco de dados. Não consegui realizar a tempo a parte de intregração com o Power BI e os desafios do projeto.
